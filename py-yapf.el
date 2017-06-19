@@ -64,7 +64,7 @@ Note that `--in-place' is used by default."
                                           'py-yapf--call-executable
                                           nil
                                           "py"
-                                          nil)))
+                                          t)))
 
 
 ;;;###autoload
